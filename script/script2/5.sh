@@ -1,4 +1,7 @@
 #!system/bin/sh
 #mulai
 clear
-echo 
+sleep 4
+echo [+]Memulai... 
+sleep 4
+clear
