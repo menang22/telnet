@@ -1,5 +1,6 @@
 # Telnet
 Script kumpulan perintah-perintah telnet versi menang22
+
 ## Cara Penginstallan
 
 $ pkg update && pkg upgrade
@@ -26,8 +27,8 @@ $ sh run.sh
 
 √ Thanks for storiku: https://github.com/storiku
 
-
 # Author
+<img src=”http://link-foto”>
 
 √ Author bye: menang22/William Gabriel.S
 
