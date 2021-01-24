@@ -5,7 +5,7 @@ sleep 4
 echo [+]Memulai... 
 sleep 4
 clear
-telnet aarmud.org
+telnet aardmud.org 4000
 clear
 echo Thanks
 sleep 2
