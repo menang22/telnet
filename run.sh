@@ -1,15 +1,16 @@
 #!system/bin/sh
 #mulai
+import os
 echo Selamat datang silahkan install bahan terlebih dahulu
-sleep 4
-clear
-pkg update upgrade
-pkg install git
-pkg install bash
-pkg install nano
-pkg install busybox
-pkg install toilet figlet
-clear
+os.system('sleep 4')
+os.system('clear') 
+os.system('pkg update && pkg upgrade') 
+os.system('pkg install git') 
+os.system('pkg install bash') 
+os.system('pkg install nano') 
+os.system('pkg install busybox') 
+os.system('pkg install toilet figlet')
+os.system('clear') 
 sleep 4
 pkg install python
 pip2 install requests 
@@ -18,7 +19,7 @@ pip2 install bs4
 clear
 sleep 4
 echo Silahkan Masukan Nama Anda Dibawah Ini
-read ne
+read -p "NAMA:" ne; 
 echo Selamat Datang $ne
 echo Mari Mulai
 sleep 2
