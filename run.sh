@@ -1,4 +1,4 @@
-#!/system/bin/sh
+#!/bin/sh
 #mulai
 import os
 echo Selamat datang silahkan install bahan terlebih dahulu
