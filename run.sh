@@ -35,4 +35,14 @@ echo 5.Perintah Telnet 5
 echo 6.Exit
 read -p "PILIH👉👉👉" pil :
 
+#bagian 1
+if [ $pil = 1 ]
+then
+echo [+]Memulai... 
+sleep 4
+cd script
+clear
+sh 1.sh
+fi
+
 
