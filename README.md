@@ -28,7 +28,7 @@ $ sh run.sh
 √ Thanks for storiku: https://github.com/storiku
 
 # Author
-![Image](http://i.imgur.com/AjQIOik.jpg)
+![Image](https://pin.it/7LSQmZb.jpg)
 <br/><br/>
 
 √ Author bye: menang22/William Gabriel.S
