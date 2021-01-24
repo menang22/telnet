@@ -1,8 +1,9 @@
 # Telnet
 Script kumpulan perintah-perintah telnet versi menang22
+toilet -f standard -F gay "Telnet"
 
 ## Cara Penginstallan
-```bash
+
 $ pkg update && pkg upgrade
 
 $ pkg install git nano
