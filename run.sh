@@ -28,5 +28,11 @@ toilet -f standard -F gay "KUMPULAN PERINTAH TELNET"
 echo Ini Dia Menu-Menu Nya
 sleep 4
 echo 1.Perintah Telnet 1
+echo 2.Perintah Telnet 2
+echo 3.Perintah Telnet 3
+echo 4.Perintah Telnet 4
+echo 5.Perintah Telnet 5
+echo 6.Exit
+read -p "PILIH👉👉👉" pil :
 
 
