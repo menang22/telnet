@@ -31,6 +31,9 @@ $ sh run.sh
 ![Image](https://avatars.githubusercontent.com/u/47746718?s=400&u=4c26336a3e568cfe89ef1c7dc0478326254597e9&v=4.jpg)
 <br/><br/>
 
+![Image](https://avatars.githubusercontent.com/u/47444671?s=400&u=83c7fc5758e32de702b35d6e9b8ce9eec9500b60&v=4.jpg)
+<br/><br/>
+
 √ Author bye: menang22/William Gabriel.S
 
 √ Github: https://github.com/menang22
