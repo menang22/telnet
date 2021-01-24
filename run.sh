@@ -45,4 +45,23 @@ clear
 sh 1.sh
 fi
 
+#bagian 2
+if [ $pil = 2 ]
+then
+echo [+]Memulai... 
+sleep 4
+cd script
+clear
+sh 2.sh
+fi
+
+#bagian 3
+if [ $pil = 3 ]
+then
+echo [+]Memulai... 
+sleep 4
+cd script
+clear
+sh 3.sh
+fi
 
