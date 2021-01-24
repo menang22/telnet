@@ -19,7 +19,7 @@ pip2 install bs4
 clear
 sleep 4
 echo Silahkan Masukan Nama Anda Dibawah Ini
-read -p "NAMA:" ne; 
+read -p "NAMA:" ne :
 echo Selamat Datang $ne
 echo Mari Mulai
 sleep 2
