@@ -2,7 +2,7 @@
 Script kumpulan perintah-perintah telnet versi menang22
 
 ## Cara Penginstallan
-
+‛‛‛bash
 $ pkg update && pkg upgrade
 
 $ pkg install git nano
@@ -28,7 +28,7 @@ $ sh run.sh
 √ Thanks for storiku: https://github.com/storiku
 
 # Author
-![Image](http://images.app.goo.gl/C32p7yeHDmPvDWAx8.jpg)
+![Image](http://i.imgur.com/AjQIOik.jpg)
 <br/><br/>
 
 √ Author bye: menang22/William Gabriel.S
