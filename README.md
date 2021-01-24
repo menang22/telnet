@@ -1,6 +1,5 @@
 # Telnet
 Script kumpulan perintah-perintah telnet versi menang22
-toilet -f standard -F gay "Telnet"
 
 ## Cara Penginstallan
 
