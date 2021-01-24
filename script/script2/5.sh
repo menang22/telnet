@@ -8,5 +8,5 @@ clear
 telnet avalon-rpg.com 23
 clear
 echo Thanks
-sleep 4
+sleep 2
 clear
