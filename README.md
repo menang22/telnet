@@ -1,4 +1,4 @@
-# telnet
+# Telnet
 Script kumpulan perintah-perintah telnet versi menang22
 # Cara Penginstallan
 ```bash
