@@ -2,7 +2,7 @@
 Script kumpulan perintah-perintah telnet versi menang22
 
 ## Cara Penginstallan
-‛‛‛bash
+```bash
 $ pkg update && pkg upgrade
 
 $ pkg install git nano
