@@ -89,6 +89,9 @@ sh 5.sh
 fi
 
 #keluar
+if [ $pil = 6 ]
+then
+echo [+]Keluar...
 sleep 4
 echo Terimakasih Telah Menggunakan Script Kami bye bye $ne
 sleep 4
