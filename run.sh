@@ -2,7 +2,7 @@
 #mulai
 import os, sys
 
-def menu:
+def menu():
 echo Selamat datang silahkan install bahan terlebih dahulu
 os.system('sleep 4')
 os.system('clear') 
