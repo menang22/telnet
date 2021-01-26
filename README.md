@@ -21,7 +21,7 @@ $ sh run.sh
 
 # Thanks To:
 
-williamgabriel5610@gnail.com
+williamgabriel5610@gmail.com
 √ Thanks for kumpulanremaja: https://github.com/kumpulanremaja
 
 √ Thanks for JustaHackers: https://github.com/justahackers
